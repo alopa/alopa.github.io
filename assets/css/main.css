@@ -48,6 +48,14 @@
 		-webkit-text-size-adjust: none;
 	}
 
+/* Mine */
+
+#logo-alopa {
+	width: 15vw;
+}
+
+
+
 /* Box Model */
 
 	*, *:before, *:after {
