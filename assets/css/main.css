@@ -53,6 +53,14 @@
 #logo-alopa {
 	width: 15vw;
 }
+#grupo-alopa {
+	background: white;
+	padding: 3rem;
+}
+#grupo-alopa img  {
+	/*width: 80%;*/
+	margin: 0 auto;
+}
 
 
 
@@ -1501,7 +1509,7 @@
 		@media screen and (max-width: 736px) {
 
 			h2 {
-				font-size: 1.1em;
+				font-size: 1.8em;
 				line-height: 1.65em;
 			}
 
@@ -1934,7 +1942,7 @@
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color: #FF3B6E;
 		}
 
 		.icon.style3 {
@@ -2577,7 +2585,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.spotlight .image {
-				width: 45%;
+				width: 30%;
 			}
 
 			.spotlight .content {
@@ -3576,20 +3584,20 @@
 /* CTA */
 
 	#cta .inner {
-		display: -moz-flex;
+		/*display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
-		display: flex;
-		max-width: 45em;
+		display: flex;*/
+		width: 80%;
 	}
 
 		#cta .inner header {
-			-moz-order: 1;
+		/*	-moz-order: 1;
 			-webkit-order: 1;
 			-ms-order: 1;
-			order: 1;
-			padding-right: 3em;
-			width: 70%;
+			order: 1;*/
+			/*padding-right: 3em;*/
+			/*width: 70%;*/
 		}
 
 			#cta .inner header p {
